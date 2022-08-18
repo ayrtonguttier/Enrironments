@@ -2,6 +2,10 @@ beekeeper-studio 3.6.2 [/stable main]
 ├── está instalado
 └── An easy-to use SQL query editor and database UI for Mac, Windows, and Linux
 
+build-essential 12.9 [Debian/bullseye main]
+├── está instalado
+└── Informational list of build-essential packages
+
 containerd.io 1.6.7-1 [Docker CE/ stable]
 ├── está instalado
 └── An open and reliable container runtime
